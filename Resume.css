@@ -1,0 +1,48 @@
+#head{
+    width: 1600px;
+    display: flex;
+    justify-content:end ;
+    
+
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+#name{
+    
+    /* margin-left: 430px; */
+    margin-top: 60px;
+    font-size: 20px;
+   
+}
+#photo{ 
+    margin-top: 30px;
+    margin-left: 300px;
+    border: 9px blue solid;
+    padding: 8px 8px 8px 8px;
+    border-radius: 8px;
+}
+p{
+    font-size:25px;
+}
+#photo img{
+
+    width: 200px;
+}
+hr{
+    margin: 0px 60px;
+        color: #0000ff;
+    width: 1600px;
+    height: 8px;
+    background-color: #0000ff;
+}
+h2{
+    margin: 0px 80px;
+    font-size:xx-large;
+    color: #0000ff;
+}
